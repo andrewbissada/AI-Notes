@@ -14,8 +14,8 @@ N8n vs Zapier/Make:
 
 
 Nodes fall into categories:
-Trigger Nodes: Event-based (e.g., “On form submission”) — no API call, just a listener.
-Action Nodes: Often API calls (e.g., Slack, Jira, Google Sheets).
-Logic Nodes: No API calls — just control flow (if/else, loops, merge).
-Data Nodes: Transform/manipulate data (formatting text, parsing JSON).
-Code Nodes: Run custom JavaScript — no external API unless you add one.
+*  Trigger Nodes: Event-based (e.g., “On form submission”) — no API call, just a listener.
+*  Action Nodes: Often API calls (e.g., Slack, Jira, Google Sheets).
+*  Logic Nodes: No API calls — just control flow (if/else, loops, merge).
+*  Data Nodes: Transform/manipulate data (formatting text, parsing JSON).
+*  Code Nodes: Run custom JavaScript — no external API unless you add one.
