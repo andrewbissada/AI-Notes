@@ -1,0 +1,16 @@
+n8n is an open-source, workflow automation and integration platform designed to connect various apps, services, and systems visually and programmatically. It enables users to build automated pipelines—so-called “workflows”—without needing extensive coding, yet gives developers the flexibility to extend via custom code or self-hosting.
+
+
+N8n vs Zapier/Make:
+* Zapier: Easiest
+* Make (Integromat): Moderate
+* n8n: Steeper learning curve; designed for developers & power users. Open source. Able to self host.
+
+Possibilities: https://n8n.io/
+
+Nodes fall into categories:
+Trigger Nodes: Event-based (e.g., “On form submission”) — no API call, just a listener.
+Action Nodes: Often API calls (e.g., Slack, Jira, Google Sheets).
+Logic Nodes: No API calls — just control flow (if/else, loops, merge).
+Data Nodes: Transform/manipulate data (formatting text, parsing JSON).
+Code Nodes: Run custom JavaScript — no external API unless you add one.
