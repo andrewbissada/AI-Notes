@@ -1,0 +1,25 @@
+AI & LLM Key Terms
+
+# Create API Keys
+Start with $5: 
+https://platform.openai.com/chat 
+
+# Tokens: 
+A token is the smallest text unit that a language model processes
+https://platform.openai.com/tokenizer 
+
+# Context Window: Total number of tokens that the LLM can examine at any one point, when trying to generate the next token. 
+Can only remember what’s within context
+Includes original prompt and its output, etc
+
+Bigger Context Windows (32k–128k+)
+Good for: Analyzing entire Books or Contracts, Codebases, etc
+
+Smaller Context Windows (2k–8k)
+Building Short transactional apps
+Single-shot prompts
+
+LLM Leaderboard Comparison: 
+Benchmarks across speed, cost, accuracy, and context size
+Context window, cost and speed comparison
+https://www.vellum.ai/llm-leaderboard
