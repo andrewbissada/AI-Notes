@@ -32,3 +32,13 @@ Nodes fall into categories:
 *  Logic Nodes: No API calls — just control flow (if/else, loops, merge).
 *  Data Nodes: Transform/manipulate data (formatting text, parsing JSON).
 *  Code Nodes: Run custom JavaScript — no external API unless you add one.
+
+Choose n8n if:
+* You’re tired of metered pricing draining your budget.
+* Data privacy is non-negotiable.
+* You crave customizability (from no-code to full-stack tinkering).
+* AI autonomy is on your roadmap.
+
+Stick with Zapier/Make if:
+* You need plug-and-play simplicity.
+* Your workflows are basic and low-volume.
