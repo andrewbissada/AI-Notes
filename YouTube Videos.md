@@ -1,4 +1,4 @@
-YouTube Videos
+<b>YouTube Videos</b>
 
 * Build a Sales Pipeline in Airtable that runs itself: https://youtu.be/EiH9EmOroKw?si=D7mM4eOSx1ZZvHa6
 
