@@ -1,5 +1,9 @@
 <b>YouTube Videos</b>
 
+* Lead Management Automations: https://youtu.be/_GCvvhpGrAc?si=OTZp13I0TFzAvRPe 
+
+* AI Chatbot every busines needs: https://youtu.be/CjFonWXD2OE?si=TLEZJ6RPu8aO834A
+
 * Build a Sales Pipeline in Airtable that runs itself: https://youtu.be/EiH9EmOroKw?si=D7mM4eOSx1ZZvHa6
 
 * Stop Missing Patient Calls - AI Receptionist Demo for Dentists: https://youtu.be/NyjWgnkQzdE?si=mjE9MLIZxcArBnFM
