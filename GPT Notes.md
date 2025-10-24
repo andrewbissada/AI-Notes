@@ -36,3 +36,6 @@ Like translating words into coordinates on a map — “dog” and “puppy” w
  Decoder Stacks (in GPT) → predicts next word step by step
 
 
+# Models:
+https://platform.openai.com/docs/models 
+
