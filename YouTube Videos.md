@@ -1,5 +1,7 @@
 <b>YouTube Videos</b>
 
+* AEO is the new SEO: https://youtu.be/GiBFJvAl0Gg
+
 * Consistent Content. Zero Extra Hours: https://youtu.be/V8SpKJrBzBw
 
 * Lead Management Automations: https://youtu.be/_GCvvhpGrAc?si=OTZp13I0TFzAvRPe 
